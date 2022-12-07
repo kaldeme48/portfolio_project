@@ -1,1 +1,2 @@
-# potfolio_project
+#  Jobs Connect - potfolio_project
+Job search website 
